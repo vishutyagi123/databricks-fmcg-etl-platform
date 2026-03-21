@@ -23,7 +23,7 @@ Retail mergers often fail at the data layer due to:
 - Fragmented customer and order data
 - Manual and error-prone integrations
 
-This project solves that by implementing a **scalable, modular ETL pipeline** that:
+This project solves that by implementing a **scalable, modular ELT pipeline** that:
 - Handles **new acquisitions independently**
 - Standardizes and cleans incoming data
 - Merges it with enterprise-grade analytics tables
