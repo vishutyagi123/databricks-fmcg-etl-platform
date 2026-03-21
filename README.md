@@ -119,7 +119,7 @@ Dashboards are powered entirely from the **Gold layer view**, ensuring consisten
 - Handling **enterprise-scale data consolidation**
 - Applying **Lakehouse architecture in practice**
 - Designing pipelines that scale with business growth
-- Building analytics-ready systems, not just ETL jobs
+- Building analytics-ready systems, not just ELT jobs
 
 ---
 
